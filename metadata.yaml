@@ -1,0 +1,53 @@
+_repo: Pan-b-Regeny_74917
+_version: 0.0.1
+alternative_title: Pan. Hungarian
+contributor:
+  translator:
+    agent_name: Bán, Ferenc
+    alias: Ban, Ferenc
+    birthdate: 1885
+    deathdate: 1938
+    gutenberg_agent_id: '57724'
+    url: http://www.gutenberg.org/2009/agents/57724
+    wikipedia: https://hu.wikipedia.org/wiki/B%C3%A1n_Ferenc_(%C3%ADr%C3%B3)
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Thode, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Knut_Hamsun
+    - https://fi.wikipedia.org/wiki/Knut_Hamsun
+    - https://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2024-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74917'
+language: hu
+pgterms:marc905: 20241211104442hamsun
+pgterms:marc906: '1912'
+pgterms:marc907: hu
+production_note: Albert László
+publication_note: '  $aBudapest :$bAthenaeum, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychological fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Norway -- Fiction'
+- !lcsh 'Men -- Fiction'
+- !lcsh 'Norwegian fiction -- Translations into Hungarian'
+- !lcsh 'Nature fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Pán : $b Regény'
+url: http://www.gutenberg.org/ebooks/74917
