@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '57724'
     url: http://www.gutenberg.org/2009/agents/57724
     wikipedia: https://hu.wikipedia.org/wiki/B%C3%A1n_Ferenc_(%C3%ADr%C3%B3)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hamsun, Knut
@@ -27,6 +30,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Knut_Hamsun
     - https://en.wikipedia.org/wiki/Knut_Hamsun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74917#Pan-b-Regeny
 gutenberg_issued: '2024-12-16'
 gutenberg_type: Text
 identifiers:
